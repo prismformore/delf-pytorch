@@ -6,7 +6,7 @@ iter_sche = [70000, 80000, 100000, 150000]
 attention_type = 'use_default_input_feature' # 'use_l2_normalized_feature' or 'use_default_input_feature'
 use_toy = False
 delf_init = False
-classification_model = 'delf'  # res or delf
+classification_model = 'res'  # res or delf
 
 aug_data = False
 
