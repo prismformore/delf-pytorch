@@ -8,5 +8,5 @@ Dataset should be generated from Simplified Drawing files (.ndjson) of [Quick Dr
 
 Simply starting training by: 
 ```
-python train.py 
+python main.py -a train 
 ```
